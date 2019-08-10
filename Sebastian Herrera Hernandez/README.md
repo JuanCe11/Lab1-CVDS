@@ -9,7 +9,7 @@
 - **Algoritmia**
     - *Grafos*
 - **Autos**
-    - _Lujos Automotricez_\
+    - _Lujos Automotricez_
 
 Tengo especial gustos por la algoritmia especialmente grafos y algoritmos como `BFS` `DFS` `Algoritmo de Dikstra`\
 Y por los autos que es una de mis pasiones
