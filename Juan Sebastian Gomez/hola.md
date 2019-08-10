@@ -12,7 +12,7 @@ Y ahora espero tener buen rendimiento en CVDS.
 Hace unos años estuve en un semiller de programacion competitiva donde desarrolle mis habilidades para aplicar algoritmos como:
    + Recurrencia
    + Diferentes ordenamientos
-   + Manejo de grafos
+   + Manejo de grafos\
 Pasando por algoritmos como `bfs(G,s)` y `dfs(G,s)`hasta llegar al algoritmo de `Ford-fulkerson(G,s,t)` para flujos maximos.
 
 
