@@ -18,6 +18,6 @@ Y por los autos que es una de mis pasiones
 ![Main][2]
 
 [1]:https://www.escuelaing.edu.co/uploads/generica/Escuela_acercade.png "Escuela de Ingenieros"
-[2]:https://imgur.com/eTlm7iy "Main"
+[2]:https://i.imgur.com/eTlm7iy.png "Main"
 
 
