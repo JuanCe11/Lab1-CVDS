@@ -21,5 +21,5 @@ Pasando por algoritmos como `bfs(G,s)` y `dfs(G,s)`hasta llegar al algoritmo de 
 
 [1]:https://image.flaticon.com/icons/svg/76/76769.svg
 [2]:https://www.escuelaing.edu.co/es/
-[3]:https://imgur.com/a/Q6y4wB4 
-[4]:https://imgur.com/a/Q6y4wB4
+[3]:https://imgur.com/dGBUKra
+[4]:https://imgur.com/dGBUKra
