@@ -13,8 +13,13 @@ Hace unos años estuve en un semiller de programacion competitiva donde desarrol
    + Recurrencia
    + Diferentes ordenamientos
    + Manejo de grafos\
-Pasando por algoritmos como `bfs(G,s)` y `dfs(G,s)`hasta llegar al algoritmo de `Ford-fulkerson(G,s,t)` para flujos maximos.
-
+Pasando por algoritmos como `bfs(G,s)` y `dfs(G,s)`hasta llegar al algoritmo de `Ford-fulkerson(G,s,t)` para flujos maximos.\
+### IV main
+![Main][3]
+### IV remote
+![remote][4]
 
 [1]:https://image.flaticon.com/icons/svg/76/76769.svg
 [2]:https://www.escuelaing.edu.co/es/
+[3]:https://i.imgur.com/dGBUKra.jpg
+[4]:https://i.imgur.com/LtPA1z8.jpg
