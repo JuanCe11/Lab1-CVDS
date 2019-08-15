@@ -1,6 +1,6 @@
 # perfil
-   Mi nombre es **Fernando Barrera Barrera**  estoy estudiando *Ingenieria de Sistemas* en la [*Escuela de ingenieria julio garavito*][2] 
-![hola][1]
+    Mi nombre es **Fernando Barrera Barrera**  estoy estudiando *Ingenieria de Sistemas* en la [*Escuela de ingenieria julio garavito*][2] 
+	![hola][1]
 
 
 
