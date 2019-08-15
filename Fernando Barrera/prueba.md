@@ -1,4 +1,5 @@
-#prueba
+# prueba
+   mi nombre es **Fernando Barrera Barrera**  estoy estudiando //Ingenieria de Sistemas// 
 ![hola][1]
 
 
