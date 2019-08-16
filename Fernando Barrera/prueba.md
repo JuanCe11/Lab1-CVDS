@@ -9,7 +9,12 @@ las materias de la rama de programacion que he visto hasta ahora son:
    3. Mdba
    4. Poob
 
-
+# Pasatiempos
+algunas de las cosas que me gusta hacer en mis tiempos libres son:
+   + jugar futbol con amigos
+   + practicar guitarra acustica
+   + escuchar musica electronica
+   
 
 
 
