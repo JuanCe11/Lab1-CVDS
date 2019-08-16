@@ -3,10 +3,10 @@
 # Plan de estudios    
 >![hola][1]
 las materias de la rama de programacion que he visto hasta ahora son:
-   1.Pimb
-   2.Pimo
-   3.Mdba
-   4.Poob
+   1. Pimb
+   2. Pimo
+   3. Mdba
+   4. Poob
 
 
 
