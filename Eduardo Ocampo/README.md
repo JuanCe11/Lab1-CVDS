@@ -14,10 +14,14 @@ Actualmente estoy en octavo semestre de ingenieria de sistemas, las materias que
 ## Hobbies
 Algunos de mis hobbies son
 
-    1. Jugar ajedrez >![Ajedrez][1]\
-    2. Leer >![Lectura][2]\
-    3. Jugar videojuegos >![Videojuegos][3]\
-    4. Jugar football >![Football][4]\
+    1. Jugar ajedrez 
+>![Ajedrez][1]\
+    2. Leer 
+>![Lectura][2]\
+    3. Jugar videojuegos 
+>![Videojuegos][3]\
+    4. Jugar football 
+>![Football][4]\
 
 
 [1]:https://image.flaticon.com/icons/svg/75/75410.svg
