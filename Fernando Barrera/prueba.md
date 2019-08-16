@@ -13,5 +13,5 @@
 
 
 
-[1]:https://www.escuelaing.edu.co/escuela/planesEstudio/img/sistemas/Malla-curricular-SISTEMAS.pdfl
+[1]:https://www.escuelaing.edu.co/escuela/planesEstudio/img/sistemas/Malla-curricular-SISTEMAS.png
 [2]:https://www.escuelaing.edu.co/es/
