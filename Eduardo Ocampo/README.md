@@ -1,6 +1,6 @@
 # **Presentacion**
 
-Me llamo Eduardo Javier Ocampo Arellano, tengo 21 años y estudio en la [*Escuela de Ingeniería Julio Garavito*](https://www.escuelaing.edu.co/es/comunidad/estudiantes).
+Me llamo Eduardo Javier Ocampo Arellano, tengo 22 años y estudio en la [*Escuela de Ingeniería Julio Garavito*](https://www.escuelaing.edu.co/es/comunidad/estudiantes).
 
 ## Plan de estudios
 
@@ -21,7 +21,7 @@ Algunos de mis hobbies son
     3. Jugar videojuegos 
 >![Videojuegos][3]\
     4. Jugar football 
->![Football][4]\
+>![Football][4]
 
 
 [1]:https://image.flaticon.com/icons/svg/75/75410.svg 
