@@ -14,11 +14,15 @@ algunas de las cosas que me gusta hacer en mis tiempos libres son:
    + jugar futbol con amigos
    + practicar guitarra acustica
    + escuchar musica electronica
-   
 
+# Main 
+>![hola][3]\    
+   
+# Remote
 >![hola][4]\ 
 
 
 [1]:https://www.escuelaing.edu.co/escuela/planesEstudio/img/sistemas/Malla-curricular-SISTEMAS.png
 [2]:https://www.escuelaing.edu.co/es/
-[4]:https://imgur.com/a/FnQZf3D.png
+[3]:https://i.imgur.com/MzvdX7q.png
+[4]:https://i.imgur.com/tIh78hS.png
