@@ -16,10 +16,10 @@ algunas de las cosas que me gusta hacer en mis tiempos libres son:
    + escuchar musica electronica
 
 # Main 
->![hola][3]\    
+>![hola][4]\    
    
 # Remote
->![hola][4]\ 
+>![hola][3]\ 
 
 
 [1]:https://www.escuelaing.edu.co/escuela/planesEstudio/img/sistemas/Malla-curricular-SISTEMAS.png
