@@ -16,13 +16,9 @@ algunas de las cosas que me gusta hacer en mis tiempos libres son:
    + escuchar musica electronica
    
 
-
-
-
-
-
-
+>![hola][4]\ 
 
 
 [1]:https://www.escuelaing.edu.co/escuela/planesEstudio/img/sistemas/Malla-curricular-SISTEMAS.png
 [2]:https://www.escuelaing.edu.co/es/
+[4]:https://imgur.com/a/FnQZf3D
